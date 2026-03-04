@@ -1,6 +1,9 @@
-# 31-aws-reliability-governance
+# 31-aws-reliability-governance-gitops
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
+
+Focus: gitops
+
 
 ## The top pains this repo addresses
 1) Replacing manual, risky changes with automated delivery—repeatable infrastructure, safe deployments, and drift-free environments (IaC + CI/CD + GitOps).
